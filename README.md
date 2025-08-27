@@ -57,3 +57,7 @@ This project uses an `.editorconfig` file to ensure a consistent and clean code 
 
 ```shell
 dotnet format --verify-no-changes
+
+```
+
+![UML Class Diagram for Notification Service](docs/UML_diagram.jpg)
