@@ -6,6 +6,5 @@
 
 public interface IMessageService
 {
-    // Sends a message.
     void Send(string message);
 }
